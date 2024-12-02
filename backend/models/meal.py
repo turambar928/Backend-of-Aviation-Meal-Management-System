@@ -20,3 +20,4 @@ class mealModel(db.Model):
             'dish_remain': self.dish_remain,
             'dish_number': self.dish_number
         }
+
